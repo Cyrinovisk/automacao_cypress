@@ -1,0 +1,14 @@
+{
+  "name": "projeto-automacao",
+  "version": "1.0.0",
+  "description": "autumacao de teste em cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Felipe Cyrino",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
